@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EduardTishchenko/hw2/static/css/main.02423b18.css",
+    "main.js": "/EduardTishchenko/hw2/static/js/main.2fdd967d.js",
+    "static/js/787.f99c86d6.chunk.js": "/EduardTishchenko/hw2/static/js/787.f99c86d6.chunk.js",
+    "static/media/avatar.png": "/EduardTishchenko/hw2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/EduardTishchenko/hw2/index.html",
+    "main.02423b18.css.map": "/EduardTishchenko/hw2/static/css/main.02423b18.css.map",
+    "main.2fdd967d.js.map": "/EduardTishchenko/hw2/static/js/main.2fdd967d.js.map",
+    "787.f99c86d6.chunk.js.map": "/EduardTishchenko/hw2/static/js/787.f99c86d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02423b18.css",
+    "static/js/main.2fdd967d.js"
+  ]
+}
