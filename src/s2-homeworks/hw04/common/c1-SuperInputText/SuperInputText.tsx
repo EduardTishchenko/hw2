@@ -75,3 +75,11 @@ const SuperInputText: React.FC<SuperInputTextPropsType> = (
 }
 
 export default SuperInputText
+
+
+
+
+
+
+
+// Что нужно написать вместо XXX, чтобы корректно удалить трек и в консоли увидеть true?

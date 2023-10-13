@@ -33,8 +33,8 @@ const SuperCheckbox: React.FC<SuperCheckboxPropsType> = (
 
     }
 
-    const finalInputClassName = s.checkbox
-        + (className ? ' ' + className : '')
+    const finalInputClassName = `${s.checkbox} ${className ? className : ""}`
+
 
     return (
         <label className={s.label}>
@@ -58,3 +58,6 @@ const SuperCheckbox: React.FC<SuperCheckboxPropsType> = (
 }
 
 export default SuperCheckbox
+
+
+
